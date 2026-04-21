@@ -21,31 +21,31 @@ Foi analisada uma query na base **AdventureWorks2019** que apresentava baixa per
 
 ### 📊 Índices Originais
 
-![Indices Originais](docs/images/indices_originais.png)
+![Indices Originais](docs/imagens/indices_originais.png)
 
 ---
 
 ### 🧨 Remoção de Índices
 
-![Remocao de Indices](docs/images/remocao_de_indices.png)
+![Remocao de Indices](docs/imagens/remocao_de_indices.png)
 
 ---
 
 ### 📉 Plano de Execução (Antes)
 
-![Plano Antes](docs/images/plano_de_execucao_antes.png)
+![Plano Antes](docs/imagens/plano_de_execucao_antes.png)
 
 ---
 
 ### 📊 Estatísticas de IO (Antes)
 
-![IO Antes](docs/images/estatisticas_antes.png)
+![IO Antes](docs/imagens/estatisticas_antes.png)
 
 ---
 
 ### 💬 Mensagens (Antes)
 
-![Mensagem Antes](docs/images/mensagem_antes.png)
+![Mensagem Antes](docs/imagens/mensagem_antes.png)
 
 ---
 
@@ -74,19 +74,19 @@ INCLUDE (SalesOrderID);
 
 ### 📉 Plano de Execução (Depois)
 
-![Plano Depois](docs/images/plano_de_execucao_depois.png)
+![Plano Depois](docs/imagens/plano_de_execucao_depois.png)
 
 ---
 
 ### 📊 Estatísticas de IO (Depois)
 
-![IO Depois](docs/images/estatisticas_depois.png)
+![IO Depois](docs/imagens/estatisticas_depois.png)
 
 ---
 
 ### 💬 Mensagens (Depois)
 
-![Mensagem Depois](docs/images/mensagem_depois.png)
+![Mensagem Depois](docs/imagens/mensagem_depois.png)
 
 ---
 
@@ -126,31 +126,31 @@ The performance issue was caused by a common anti-pattern:
 
 ### 📊 Original Indexes
 
-![Original Indexes](docs/images/indices_originais.png)
+![Original Indexes](docs/imagens/indices_originais.png)
 
 ---
 
 ### 🧨 Index Removal
 
-![Index Removal](docs/images/remocao_de_indices.png)
+![Index Removal](docs/imagens/remocao_de_indices.png)
 
 ---
 
 ### 📉 Execution Plan (Before)
 
-![Execution Plan Before](docs/images/plano_de_execucao_antes.png)
+![Execution Plan Before](docs/imagens/plano_de_execucao_antes.png)
 
 ---
 
 ### 📊 IO Statistics (Before)
 
-![IO Before](docs/images/estatisticas_antes.png)
+![IO Before](docs/imagens/estatisticas_antes.png)
 
 ---
 
 ### 💬 Messages Output (Before)
 
-![Messages Before](docs/images/mensagem_antes.png)
+![Messages Before](docs/imagens/mensagem_antes.png)
 
 ---
 
@@ -179,19 +179,19 @@ INCLUDE (SalesOrderID);
 
 ### 📉 Execution Plan (After)
 
-![Execution Plan After](docs/images/plano_de_execucao_depois.png)
+![Execution Plan After](docs/imagens/plano_de_execucao_depois.png)
 
 ---
 
 ### 📊 IO Statistics (After)
 
-![IO After](docs/images/estatisticas_depois.png)
+![IO After](docs/imagens/estatisticas_depois.png)
 
 ---
 
 ### 💬 Messages Output (After)
 
-![Messages After](docs/images/mensagem_depois.png)
+![Messages After](docs/imagens/mensagem_depois.png)
 
 ---
 
