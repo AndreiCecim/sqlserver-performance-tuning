@@ -1,0 +1,115 @@
+# =========================
+
+# Visual Studio
+
+# =========================
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+
+bin/
+obj/
+
+# =========================
+
+# SQL Server / Database
+
+# =========================
+
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# SQL Server local settings
+
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# =========================
+
+# Logs & Temp files
+
+# =========================
+
+*.log
+*.tmp
+*.temp
+*.cache
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Environment / Secrets
+
+# =========================
+
+.env
+.env.*
+appsettings.json
+appsettings.*.json
+
+# (opcional: se quiser versionar config base, remove a linha acima e usa:)
+
+# appsettings.Development.json
+
+# =========================
+
+# Backup / Dumps
+
+# =========================
+
+*.sql.bak
+*.backup
+*.dump
+
+# =========================
+
+# Node (caso use algo frontend)
+
+# =========================
+
+node_modules/
+
+# =========================
+
+# Azure / Publish
+
+# =========================
+
+*.publish.xml
+*.azurePubxml
+
+# =========================
+
+# Rider / VSCode (opcional)
+
+# =========================
+
+.idea/
+.vscode/
+
+# =========================
+
+# Outros arquivos sensíveis
+
+# =========================
+
+secrets.json
+connectionStrings.json
